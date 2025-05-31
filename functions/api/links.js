@@ -40,7 +40,7 @@ async function saveLink(env, newLink) {
 function getDefaultLinks() {
   return [
     // Ai搜索
-    { category: 'ai-search', title: 'Google', url: 'https://www.google.com', icon: 'fab fa-google' },
+    { category: 'ai-search', title: 'Lxの主页', url: 'https://www.aoeb101la.top', icon: 'fab fa-google' },
     { category: 'ai-search', title: 'Bing', url: 'https://www.bing.com', icon: 'fab fa-microsoft' },
     { category: 'ai-search', title: 'websim', url: 'https://websim.ai/', icon: 'fas fa-search' },
     { category: 'ai-search', title: 'chatgpt', url: 'https://chatgpt.com/', icon: 'fab fa-google' },
